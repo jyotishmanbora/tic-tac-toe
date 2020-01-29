@@ -1,5 +1,6 @@
 body {
-    font-family: Arial;
+        font-family: Arial;
+	min-width: 80%;
 }
 h1 {
 	text-align: center;
@@ -26,8 +27,3 @@ tr:nth-of-type(2) td {
 	border-bottom: 1px solid black;
 }
 
-.squarebg {
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
-}
