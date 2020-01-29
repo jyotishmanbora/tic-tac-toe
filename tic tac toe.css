@@ -1,6 +1,5 @@
 body {
         font-family: Arial;
-	min-width: 80%;
 }
 h1 {
 	text-align: center;
@@ -10,6 +9,9 @@ h3 {
 }
 #button {
     text-align: center;
+}
+button {
+    padding: 15px;
 }
 table {
 	margin: 20px auto;
